@@ -1,0 +1,2 @@
+# CURSO-REACT-JS
+Este é o primeiro vídeo de uma série completa sobre React, projetada especificamente para desenvolvedores que buscam aprimorar suas habilidades e impulsionar suas carreiras. Nesta aula inaugural, abordaremos a criação e inicialização de um projeto React básico utilizando o Vite. O objetivo é fornecer uma base sólida para que você compreenda os fundamentos e as melhores práticas desde o início.
